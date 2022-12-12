@@ -158,7 +158,7 @@
         font-weight: 600;
     }
     .envelope .text_block .container .description {
-        padding: 0 15px 20px;
+        padding: 0 5px 20px;
     }
     .envelope .envelope_color .container .color_box {
         flex-basis: 20%;
