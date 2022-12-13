@@ -100,10 +100,10 @@
 /* Min-width:1600px */
 @media(min-width:1950px) {
     .envelope .text_block .container {
-        flex-basis: 60%;
+        flex-basis: 50%;
     }
     .envelope .envelope_color .container {
-        flex-basis: 60%;
+        flex-basis: 45%;
     }
 }
 /* Min-width:1600px */
