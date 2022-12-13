@@ -75,9 +75,9 @@
     /* background-color: yellow; */
 
 }
-.envelope .envelope_color .container .color_box:hover .color_rectangle {
+/* .envelope .envelope_color .container .color_box:hover .color_rectangle {
     box-shadow: 1px 5px 10px 0 rgba(206, 17, 17, 0.493);
-}
+} */
 .envelope .envelope_color .container .color_box .color_name {
     transition: all 0.8s ease-in-out;
     padding: 12px 0 0;
